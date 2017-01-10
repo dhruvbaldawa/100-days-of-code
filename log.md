@@ -80,6 +80,12 @@ Will plan what things and features to work on next.
  - [alia](https://github.com/dhruvbaldawa/alia)
  - [alia commit log](https://github.com/dhruvbaldawa/alia/commits/master?until=2017-01-08T12:00:00Z&since=2017-01-07T20:00:00Z)
 
+### Day 3: 9th January, 2017
+
+**Today's progress**
+ - Evaluating options for testing code, both how the testing works with
+   `asyncio` as well as see how to test Tornado codebase in general.
+
 ## Template
 ### Day x: [DATE]
 
